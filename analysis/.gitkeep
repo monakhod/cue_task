@@ -1,0 +1,2 @@
+%% this folder rincludes all codes for preprocessing eeg and futher analysis
+%% main codes are listed in files BasicPipelineStepsPriorConfidence (preprocessing) and My_BasicSteps (work with beh data)
